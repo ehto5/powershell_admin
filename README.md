@@ -1,5 +1,4 @@
 -----------------------------------------------------------------------------------------------------------------------------------
-powershell_admin
 A collection of PowerShell scripts for enterprise sysadmin tasks covering Active Directory, VMware, and certificate management.
 -----------------------------------------------------------------------------------------------------------------------------------
 
