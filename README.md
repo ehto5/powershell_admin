@@ -1,5 +1,7 @@
+-----------------------------------------------------------------------------------------------------------------------------------
 powershell_admin
 A collection of PowerShell scripts for enterprise sysadmin tasks covering Active Directory, VMware, and certificate management.
+-----------------------------------------------------------------------------------------------------------------------------------
 
 Add_ICAcert.ps1
 Choose a certificate file and configure a domain to use it for strong certificate binding by UPN suffix. Imports the cert to the local machine store, generates the thumbprint/OID/UPN binding string (tuple), updates the KDC registry policy via GPO, and publishes to NTAuth.
